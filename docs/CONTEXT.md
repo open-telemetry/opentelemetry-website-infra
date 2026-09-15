@@ -22,6 +22,8 @@ The observability pipeline planned for the OpenTelemetry project's websites. Tel
 
 **Backend**: A store-and-query system the Collector exports to. Never receives writes from a Source directly. _Avoid_: sink, datastore, destination
 
+**Stack**: A Backend and its supporting services, connected to the shared Collector.
+
 ### Surfaces
 
 **Ingest endpoint**: The public, secretless, write-only OTLP endpoint that Sources send to. _Avoid_: collector endpoint, OTLP URL, ingress
