@@ -8,7 +8,7 @@ Site telemetry is intended to be publicly accessible, with sensitive information
 
 ## Get involved
 
-The project is in its early stages, with implementation planned in phases. If you are interested in contributing, start with the [project terminology](CONTEXT.md).
+The project is in its early stages, with implementation planned in phases. If you are interested in contributing, start with the [project terminology](docs/CONTEXT.md).
 
 ## Community
 
